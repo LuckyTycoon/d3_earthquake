@@ -1,6 +1,8 @@
 // Application des conventions de marges pour D3.
 // Application of margin conventions for D3.
 
+console.log("It is d3 project");
+
 var margin = {top: 20, right: 20, bottom: 20, left: 20};
 
 var width  = 450 - margin.left - margin.right,
